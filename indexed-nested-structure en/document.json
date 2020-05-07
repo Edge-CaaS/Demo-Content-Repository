@@ -1,0 +1,34 @@
+{
+    "title": "Cloud",
+    "language": "en",
+    "status": "Pending",
+    "type": "Course",
+    "timetype": "Self-paced",
+    "duration": "30",
+    "certificate": "Badge",
+    "badgeid": "0064dec7-6fa5-4f50-9b54-bab8464e8c26",
+    "description": "<h3>Objectives</h3><p>After completing this course, you should be able to understand:</p><ul><li>What is Cloud</li><li>Why Cloud is important</li><li>How Cloud can be applied across various industries</li></ul><br/>",
+    "job_search_keyword": 
+    [
+        "cloud"
+    ],
+    "objective": 
+    [
+        "What is Cloud",
+        "Why Cloud is important",
+        "How Cloud can be applied across various industries"
+    ],
+    "skills": 
+    [
+        "Cloud Computing",
+        "Cloud",
+        "IaaS",
+        "PaaS",
+        "SaaS",
+        "Hybrid Cloud",
+        "Private Cloud"
+    ],
+    "imageURL": "explorer-cloud/en/_attachments/Explorer-Cloud-Course-Icon.png",
+    "prereq": [],
+    "intro": "Cloud can empower you to embrace change and propel progress. In this course you will learn about what Cloud is, and how it can benefit businesses regardless of the industry they occupy. You will then go through examples of different companies that are using Cloud services to market and expand their solution."
+}

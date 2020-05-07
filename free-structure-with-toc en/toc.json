@@ -1,0 +1,34 @@
+{
+  "1": {
+    "title": "Managing services"
+  },
+  "1.1": {
+    "title": "Change plan",
+    "file": "change-plan.md"
+  },
+  "1.2": {
+    "title": "Connecting apps",
+    "file": "connecting_apps.md"
+  },
+  "1.3": {
+    "title": "Service credentials",
+    "file": "service_credentials.md"
+  },
+  "2": {
+    "title": "Connecting to services over a private network",
+    "info": {
+      "anything": "something"
+    }
+  },
+  "2.1": {
+    "title": "Service endpoints",
+    "file": "service-endpoints.md",
+    "info": {
+      "key": "value"
+    }
+  },
+  "2.2": {
+    "title": "Private network endpoints",
+    "file": "private-network-endpoints.md"
+  }
+}

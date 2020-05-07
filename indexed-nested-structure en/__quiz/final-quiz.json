@@ -1,0 +1,409 @@
+{
+    "title": "Quiz: Cloud",
+    "body": "Quiz: Cloud",
+    "questions": [{
+        "id": "1",
+        "question": "After going through the introduction and case studies, what is your understanding of the Cloud?",
+        "body": "",
+        "answers": [{
+            "id": "1",
+            "answer": "Cloud is the action of sorting unlimited amounts of data given by industry experts",
+            "valid": false
+        }, {
+            "id": "2",
+            "answer": "Cloud is the delivery of on-demand computing resources such as compute, network, and storage",
+            "valid": true
+        }, {
+            "id": "3",
+            "answer": "Cloud is the process of upgrading a company’s platform infrastructure",
+            "valid": false
+        }, {
+            "id": "4",
+            "answer": "All of the above",
+            "valid": false
+        }],
+        "explanation": "",
+        "randomAnswers": false,
+        "numberOfAnswers": 4
+    }, {
+        "id": "2",
+        "question": "How does Cloud allow the telco industry to grow?",
+        "body": "",
+        "answers": [{
+            "id": "1",
+            "answer": "Offers them the ability to bring new services to their clients more quickly and efficiently",
+            "valid": true
+        }, {
+            "id": "2",
+            "answer": "Allows them to classify, group and cluster patterns",
+            "valid": false
+        }, {
+            "id": "3",
+            "answer": "Helps them talk to existing clients",
+            "valid": false
+        }, {
+            "id": "4",
+            "answer": "None of the above",
+            "valid": false
+        }],
+        "explanation": "",
+        "randomAnswers": false,
+        "numberOfAnswers": 4
+    }, {
+        "id": "3",
+        "question": "Select the correct statement(s):",
+        "body": "",
+        "answers": [{
+            "id": "1",
+            "answer": "Cloud allows an opportunity to cut down maintenance costs",
+            "valid": false
+        }, {
+            "id": "2",
+            "answer": "Cloud will help the healthcare industry with the ability to get capacity on demand to discover genomic patterns",
+            "valid": false
+        }, {
+            "id": "3",
+            "answer": "A and B",
+            "valid": true
+        }, {
+            "id": "4",
+            "answer": "None of the above",
+            "valid": false
+        }],
+        "explanation": "",
+        "randomAnswers": false,
+        "numberOfAnswers": 4
+    }, {
+        "id": "4",
+        "question": "The end user for Cloud has a complex interface that shows the vast IT structure behind it",
+        "body": "",
+        "answers": [{
+            "id": "1",
+            "answer": "True",
+            "valid": false
+        }, {
+            "id": "2",
+            "answer": "False",
+            "valid": true
+        }],
+        "explanation": "",
+        "randomAnswers": false,
+        "numberOfAnswers": 2
+    }, {
+        "id": "5",
+        "question": "How did Cloud help HotelsCombined in their business?",
+        "body": "",
+        "answers": [{
+            "id": "1",
+            "answer": "HotelsCombined did not have to plan everything perfectly",
+            "valid": false
+        }, {
+            "id": "2",
+            "answer": "HotelsCombined had a lot of flexibility to shift things around",
+            "valid": false
+        }, {
+            "id": "3",
+            "answer": "HotelsCombined could constantly keep optimizing their infrastructure",
+            "valid": false
+        }, {
+            "id": "4",
+            "answer": "All of the above",
+            "valid": true
+        }],
+        "explanation": "",
+        "randomAnswers": false,
+        "numberOfAnswers": 4
+    }, {
+        "id": "6",
+        "question": "Cloud has brought the barrier to computing down dramatically",
+        "body": "",
+        "answers": [{
+            "id": "1",
+            "answer": "True",
+            "valid": true
+        }, {
+            "id": "2",
+            "answer": "False",
+            "valid": false
+        }],
+        "explanation": "",
+        "randomAnswers": false,
+        "numberOfAnswers": 2
+    }, {
+        "id": "7",
+        "question": "With Cloud, as your business becomes bigger, so does the platform and therefore you don’t lose that momentum",
+        "body": "",
+        "answers": [{
+            "id": "1",
+            "answer": "True",
+            "valid": true
+        }, {
+            "id": "2",
+            "answer": "False",
+            "valid": false
+        }],
+        "explanation": "",
+        "randomAnswers": false,
+        "numberOfAnswers": 2
+    }, {
+        "id": "8",
+        "question": "How did Cloud help Sonnet in their business?",
+        "body": "",
+        "answers": [{
+            "id": "1",
+            "answer": "Allowed them to provide great customer experience",
+            "valid": false
+        }, {
+            "id": "2",
+            "answer": "Helped them manage risks effectively",
+            "valid": false
+        }, {
+            "id": "3",
+            "answer": "A and B",
+            "valid": true
+        }, {
+            "id": "4",
+            "answer": "None of the above",
+            "valid": false
+        }],
+        "explanation": "",
+        "randomAnswers": false,
+        "numberOfAnswers": 4
+    }, {
+        "id": "9",
+        "question": "With Cloud, Fabler Studios can now run a 6 week testing cycle in just 24 hours",
+        "body": "",
+        "answers": [{
+            "id": "1",
+            "answer": "True",
+            "valid": true
+        }, {
+            "id": "2",
+            "answer": "False",
+            "valid": false
+        }],
+        "explanation": "",
+        "randomAnswers": false,
+        "numberOfAnswers": 2
+    }, {
+        "id": "10",
+        "question": "Cloud allowed Fabler studios to scale up and down their infrastructure in a cost effective way",
+        "body": "",
+        "answers": [{
+            "id": "1",
+            "answer": "True",
+            "valid": true
+        }, {
+            "id": "2",
+            "answer": "False",
+            "valid": false
+        }],
+        "explanation": "",
+        "randomAnswers": false,
+        "numberOfAnswers": 2
+    }, {
+        "id": "11",
+        "question": "People are using Cloud everywhere, in financial services, insurance, healthcare, to read, and to find information",
+        "body": "",
+        "answers": [{
+            "id": "1",
+            "answer": "True",
+            "valid": true
+        }, {
+            "id": "2",
+            "answer": "False",
+            "valid": false
+        }],
+        "explanation": "",
+        "randomAnswers": false,
+        "numberOfAnswers": 2
+    }, {
+        "id": "12",
+        "question": "What are some of the benefits of Software as a service (SaaS)?",
+        "body": "",
+        "answers": [{
+            "id": "1",
+            "answer": "No data is lost if your computer breaks",
+            "valid": false
+        }, {
+            "id": "2",
+            "answer": "The service dynamically scales to usage needs",
+            "valid": false
+        }, {
+            "id": "3",
+            "answer": "Apps and data are accessible for any connected computer",
+            "valid": false
+        }, {
+            "id": "4",
+            "answer": "All of the above",
+            "valid": true
+        }],
+        "explanation": "",
+        "randomAnswers": false,
+        "numberOfAnswers": 4
+    }, {
+        "id": "13",
+        "question": "Please select the correct statement(s):",
+        "body": "",
+        "answers": [{
+            "id": "1",
+            "answer": "With Infrastructure as a service (IaaS) you can develop applications and get to market faster",
+            "valid": false
+        }, {
+            "id": "2",
+            "answer": "Public clouds are owned and operated by companies that offer rapid access over a public network to affordable computing resources",
+            "valid": true
+        }, {
+            "id": "3",
+            "answer": "A hybrid cloud is infrastructure operated solely for a single organization",
+            "valid": false
+        }, {
+            "id": "4",
+            "answer": "None of the above",
+            "valid": false
+        }],
+        "explanation": "",
+        "randomAnswers": false,
+        "numberOfAnswers": 4
+    }, {
+        "id": "14",
+        "question": "Private clouds provide sophisticated security and governance designed for a company’s specific requirements",
+        "body": "",
+        "answers": [{
+            "id": "1",
+            "answer": "True",
+            "valid": true
+        }, {
+            "id": "2",
+            "answer": "False",
+            "valid": false
+        }],
+        "explanation": "",
+        "randomAnswers": false,
+        "numberOfAnswers": 2
+    }, {
+        "id": "15",
+        "question": "What is a Public cloud?",
+        "body": "",
+        "answers": [{
+            "id": "1",
+            "answer": "Uses a private cloud foundation and use of public cloud services",
+            "valid": false
+        }, {
+            "id": "2",
+            "answer": "Cloud based applications run on distant computers",
+            "valid": false
+        }, {
+            "id": "3",
+            "answer": "Owned and operated by companies that offer rapid access over a public network",
+            "valid": true
+        }, {
+            "id": "4",
+            "answer": "All of the above",
+            "valid": false
+        }],
+        "explanation": "",
+        "randomAnswers": false,
+        "numberOfAnswers": 4
+    }, {
+        "id": "16",
+        "question": "What are some of the key aspects of Public cloud?",
+        "body": "",
+        "answers": [{
+            "id": "1",
+            "answer": "Offers flexible, scalable IaaS (infrastructure as a service) storage and computes services on a moments notice",
+            "valid": false
+        }, {
+            "id": "2",
+            "answer": "Powerful PaaS (platform as a service) for cloud-based application development and deployment",
+            "valid": false
+        }, {
+            "id": "3",
+            "answer": "Innovative SaaS (software as a service) business apps for applications",
+            "valid": false
+        }, {
+            "id": "4",
+            "answer": "All of the above",
+            "valid": true
+        }],
+        "explanation": "",
+        "randomAnswers": false,
+        "numberOfAnswers": 4
+    }, {
+        "id": "17",
+        "question": "The reality is that a private cloud can exist in isolation from the rest of a company’s IT resources and the public cloud",
+        "body": "",
+        "answers": [{
+            "id": "1",
+            "answer": "True",
+            "valid": false
+        }, {
+            "id": "2",
+            "answer": "False",
+            "valid": true
+        }],
+        "explanation": "",
+        "randomAnswers": false,
+        "numberOfAnswers": 2
+    }, {
+        "id": "18",
+        "question": "Cloud computing is often referred to as simple “the cloud”",
+        "body": "",
+        "answers": [{
+            "id": "1",
+            "answer": "True",
+            "valid": true
+        }, {
+            "id": "2",
+            "answer": "False",
+            "valid": false
+        }],
+        "explanation": "",
+        "randomAnswers": false,
+        "numberOfAnswers": 2
+    }, {
+        "id": "19",
+        "question": "Most companies with private clouds will evolve to manage workloads across data centers, and private clouds creating hybrid clouds",
+        "body": "",
+        "answers": [{
+            "id": "1",
+            "answer": "True",
+            "valid": false
+        }, {
+            "id": "2",
+            "answer": "False",
+            "valid": true
+        }],
+        "explanation": "",
+        "randomAnswers": false,
+        "numberOfAnswers": 2
+    }, {
+        "id": "20",
+        "question": "What is Infrastructure as a Service (IaaS)?",
+        "body": "",
+        "answers": [{
+            "id": "1",
+            "answer": "A private cloud that allows users to store their data",
+            "valid": false
+        }, {
+            "id": "2",
+            "answer": "A service that provides companies with computing resources like servers, networking, storage, and data center space on pay-per-use basis",
+            "valid": true
+        }, {
+            "id": "3",
+            "answer": "A service offering rapid access over a public network",
+            "valid": false
+        }, {
+            "id": "4",
+            "answer": "None of the above",
+            "valid": false
+        }],
+        "explanation": "",
+        "randomAnswers": false,
+        "numberOfAnswers": 4
+    }],
+    "randomQuestions": true,
+    "numberOfQuestions": 20,
+    "passingPercent": 80,
+    "checkAnswer": true
+}

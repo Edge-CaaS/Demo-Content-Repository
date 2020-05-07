@@ -1,0 +1,16 @@
+{
+  "title": "CaaS v7 Demo catalog - subcatalog A",
+  "owners": {"x": ["all"]},
+  "viewers": {
+    "CaaS-Demo": [
+      "all"
+    ]
+  },
+  "editors": {},
+  "copyright": {},
+  "documents": ["free-structure", "free-structure-with-toc"],
+  "catalogInfo": {},
+  "documentsInfo": {
+    "free-structure": { "backgroundImage": "sky.jpg"}
+  }
+}

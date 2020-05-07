@@ -1,0 +1,63 @@
+{:navgroup: .navgroup}
+{:topicgroup: .topicgroup}
+
+{: .toc subcollection="resources" category="platform_services" audience="platform" arm="3816100" href="/docs/resources?topic=resources-resource#resource" path="resources"}
+Working with resources and services
+
+    {: .navgroup id="learn"}
+    acct_resources.md
+    bestpractice_rgs.md
+    services_region.md
+    services_availability.md
+    {: .navgroup-end}
+
+    {: .navgroup id="howto"}
+    resourcegroups.md
+    instance_migration.md
+    searching.md
+    access-report.md
+
+    {: .topicgroup}
+    Tagging resources
+        tagging_resources.md
+        grant-tag-access.md
+
+    {: .topicgroup}
+    Managing services
+        change-plan.md
+        connecting_apps.md
+        service_credentials.md
+        connect_external_app.md
+        s2s.md
+        service_in_other_regions.md
+        using-services.md
+        
+    {: .topicgroup}
+    Connecting to services over a private network
+        service-endpoints.md
+        private-network-endpoints.md
+        /direct-link/direct-link-overview-of-virtual-routing-and-forwarding-vrf-on-ibm-cloud
+    {: .navgroup-end}    
+
+    {: .navgroup id="reference"}
+    tagging_sample_syntax.md
+    crn.md
+    
+    {: .topicgroup}
+    Command reference
+        /cli/reference/ibmcloud/cloud-cli-ibmcloud_commands_resource
+        /cli/reference/ibmcloud/cloud-cli-ibmcloud_commands_services
+        /cli/reference/ibmcloud/cloud-cli-ibmcloud_catalog
+        
+    {: .topicgroup}
+    API reference  
+        [IBM Cloud Resource Manager API](https://{DomainName}/apidocs/resource-manager){: new_window}
+        [IBM Cloud Resource Controller API](https://{DomainName}/apidocs/resource-controller){: new_window}
+        [Global Search and Tagging - Tagging API](https://{DomainName}/apidocs/tagging){: new_window}
+        [Global Search and Tagging - Search API](https://{DomainName}/apidocs/search){: new_window}
+    {: .navgroup-end}
+
+    {: .navgroup id="help"}
+    faqs.md
+    ts_services.md
+    {: .navgroup-end}

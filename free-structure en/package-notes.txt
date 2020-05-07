@@ -1,0 +1,7 @@
+Do not translate any of the product names in the first column of the table in docs/resources/service_region.md
+
+The content in /services has moved to /resources
+
+There are several files that are in most folders. index.md, getting-started.md, and toc, are often in each folder. 
+
+This team only sends content to translation that has been updated since the last shipment. So if one of those files is in a shipment, it does not mean it has moved.

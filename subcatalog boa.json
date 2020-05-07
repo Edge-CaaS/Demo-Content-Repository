@@ -1,0 +1,14 @@
+{
+  "title": "BOA subcatalog",
+  "owners": {},
+  "viewers": {
+    "CaaS-Demo": [
+      "*ibm.com", "john@gmail.com"
+    ]
+  },
+  "editors": {},
+  "copyright": {},
+  "documents": [],
+  "catalogInfo": {},
+  "documentsInfo": {}
+}

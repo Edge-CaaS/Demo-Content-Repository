@@ -1,0 +1,108 @@
+{
+    "resource-group": [
+      "what is a resource group",
+      "what's resource groups?",
+      "what do resource groups do",
+      "tell me about resource groups",
+      "learn about resource groups",
+      "how do I use a resource group"
+],
+    "create-add-resource": [
+      "can't add a resource to a resource group",
+      "can't add another resource",
+      "unable to add another resource to my group",
+      "adding a resource group gives an error",
+      "tring to add a second resource group",
+      "I'm trying to create a new Resource Group",
+      "can't create a resource group",
+      "issue adding a resource group",
+      "trying to create a new Resource Group it say's limit reached"
+],
+    "create-resource": [
+     "can I create a resource group?",
+     "who can create resource groups",
+     "can only administrators add a resource group to the account",
+     "adding a resource group to my Lite account",
+     "can I create resource groups without paying"
+ ],
+    "delete-resource-group": [
+      "need to remove my resource group",
+      "delete a resource group?",
+      "remove resource group",
+      "get rid of this resource group",
+      "resource group deletion",
+      "removal of resource group",
+      "no longer need this resource group"
+ ],
+    "view-usage": [   
+     "summary of the usage by resource group",
+     "view usage per resource group",
+     "list my resource group usage",
+     "show me account usage for this resource group",
+     "manage billing and usage for each resource group"
+  ],
+    "instance-migrated": [
+      "migrate my Cloud Foundry instances to my resource group",
+      "services to a resource group migration",
+      "migrating my CF services to resource group",
+      "transfer of services to a resource group",
+      "services to be transferred to this resource group"
+  ],
+    "instances-between-rgs": [
+      "move this service to my other resource group",
+      "transfer this resource group's services to my other resource group",
+      "move services to a different resource group",
+      "transfer of services to a different resource group",
+      "services to be transferred to another resource group"
+  ],
+    "service-removal": [
+      "delete a service from this account",
+      "service removal from my account",
+      "remove a service as do not want it on my account",
+      "services need to be deleted from account"
+   ],
+    "tag-faq": [
+      "add tags to resource group",
+      "tag addition to resource group",
+      "add or remove a tag from resource group",
+      "removal of resource group tags",
+      "adding a tag for a resource group"
+    ],
+    "slitems": [
+      "find my SoftLayer resources",
+      "finding SoftLayer devices",
+      "find the classic infrastructure resources",
+      "view my SoftLayer resources",
+      "view SoftLayer storage",
+      "view SoftLayer network",
+      "control.softlayer.com to retire",
+      "new experience at cloud.ibm.com"
+    ], 
+     "ts_service_broker": [     
+      "error trying to delete a service",
+      "trying to remove a service and get an error",
+      "Gateway timeout error",
+      "can't delete a service",
+      "deleting a service gives an error"
+    ],
+     "ts_service_instance": [   
+       "service instance in the wrong resource group",
+       "service was migrated to a wrong resource group",
+       "resource is assigned to an incorrect resource group",  
+       "not in the correct resource group",
+       "assigned the instance to the wrong resource group"
+     ],
+      "ts_migrate_instance": [
+        "can't migrate a Cloud Foundry service instance to a resource group",
+        "having trouble migrating an instance to my resource group",
+        "trying to migrate an instance to another resource group and can't",
+        "can't transfer this to a different resource group",
+         "unable to transfer a service to a resource group"
+      ],  
+       "ts_service_migration": [ 
+        "migrate all Cloud Foundry services to a resource group",
+        "having trouble migrating all instances to my resource group",
+        "are all my services eligible for migration",
+        "can't transfer my services to a  different resource group" 
+]        
+}

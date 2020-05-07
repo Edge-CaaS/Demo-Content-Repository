@@ -1,0 +1,32 @@
+{
+  "title": "CaaS v7 Demo catalog",
+  "owners": {
+    "x": [
+      "all"
+    ]
+  },
+  "viewers": {
+    "CaaS-Demo": [
+      "*ibm.com", "john.doe@gmail.com", "all"
+    ]
+  },
+  "editors": {},
+  "copyright": {},
+  "catalogInfo": {},
+  "documentsInfo": {
+    "meta-only": {
+      "background": "blue"
+    }
+  },
+  "searchInit": {
+    "search": [
+      "document.title",
+      "document.description"
+    ],
+    "filters": [
+      "document.type",
+      "document.category"
+    ],
+    "history": false
+  }
+}

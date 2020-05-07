@@ -1,0 +1,150 @@
+{
+	"title": "HTML Quiz 2",
+	"body": "Test your HTML skills",
+	"questions": [{
+			"id": "1",
+			"question": "What does <em>HTML</em> stand for?",
+			"body": "",
+			"answers": [{
+					"id": "1",
+					"answer": "Hyperlinks and Text Markup Language",
+					"valid": false
+				},
+				{
+					"id": "2",
+					"answer": "Home Tool Markup Language",
+					"valid": false
+				},
+				{
+					"id": "3",
+					"answer": "Hyper Text Markup Language",
+					"valid": true
+				}
+			],
+			"explanation": "Explanation in <abbr title='Hyper Text Markup Language'>HTML</abbr> format",
+			"randomAnswers": true,
+			"numberOfAnswers": 0
+		},
+		{
+			"id": "2",
+			"question": "Who is making the Web standards?",
+			"body": "",
+			"answers": [{
+					"id": "1",
+					"answer": "The World Wide Web Consortium",
+					"valid": true
+				},
+				{
+					"id": "2",
+					"answer": "Microsoft",
+					"valid": false
+				},
+				{
+					"id": "3",
+					"answer": "Mozilla",
+					"valid": false
+				},
+				{
+					"id": "4",
+					"answer": "Google",
+					"valid": false
+				}
+			],
+			"explanation": "",
+			"randomAnswers": true,
+			"numberOfAnswers": 4
+		},
+		{
+			"id": "3",
+			"question": "Inline elements are normally displayed without starting a new line.",
+			"body": "",
+			"answers": [{
+					"id": "1",
+					"answer": "True",
+					"valid": true
+				},
+				{
+					"id": "2",
+					"answer": "False",
+					"valid": false
+				}
+			],
+			"explanation": "",
+			"randomAnswers": true,
+			"numberOfAnswers": 2
+		},
+		{
+			"id": "4",
+			"question": "Which of the following are valid HTML tags?",
+			"body": "",
+			"answers": [{
+					"id": "1",
+					"answer": "head",
+					"valid": true
+				},
+				{
+					"id": "2",
+					"answer": "body",
+					"valid": true
+				},
+				{
+					"id": "3",
+					"answer": "foot",
+					"valid": false
+				},
+				{
+					"id": "4",
+					"answer": "link",
+					"valid": true
+				},
+				{
+					"id": "5",
+					"answer": "url",
+					"valid": false
+				},
+				{
+					"id": "6",
+					"answer": "document",
+					"valid": false
+				}
+			],
+			"explanation": "HTML valid tags are <a href=\"https://www.w3schools.com/html/html_head.asp\" target=\"_blank\">head</a>, <a href=\"https://www.w3schools.com/html/html_basic.asp\" target=\"_blank\">body</a> and <a href=\"https://www.w3schools.com/html/html_styles.asp\" target=\"_blank\">link</a>. For more information please check the links for each tag.",
+			"randomAnswers": true,
+			"numberOfAnswers": 6,
+			"multipleValid": false
+		},
+		{
+			"id": "5",
+			"question": "What is the correct HTML for making a drop-down list?",
+			"body": "",
+			"answers": [{
+					"id": "1",
+					"answer": "<select>",
+					"valid": true
+				},
+				{
+					"id": "2",
+					"answer": "<input type=\"list\">",
+					"valid": false
+				},
+				{
+					"id": "3",
+					"answer": "<list>",
+					"valid": false
+				},
+				{
+					"id": "4",
+					"answer": "<input type=\"dropdown\">",
+					"valid": false
+				}
+			],
+			"explanation": "",
+			"randomAnswers": true,
+			"numberOfAnswers": 4
+		}
+	],
+	"randomQuestions": true,
+	"numberOfQuestions": 5,
+	"passingPercent": 80,
+	"checkAnswer": true
+}
