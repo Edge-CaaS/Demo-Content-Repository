@@ -1,4 +1,4 @@
-# Edge CaaS Demo Content Repository
+# Edge CaaS - Demo Content Repository
 
 
 https://developer.ibm.com/edge/caas
