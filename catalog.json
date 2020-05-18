@@ -9,7 +9,8 @@
   "viewers": {
     "CaaS-Demo": [
       "*ibm.com", "john.doe@gmail.com", "all"
-    ]
+    ],
+    "contentstore": ["*ibm.com"]
   },
   "previewers": { 
     "contentstore": ["all"]
