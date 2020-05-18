@@ -5,13 +5,18 @@
       "all"
     ]
   },
+  "editors": {},
   "viewers": {
     "CaaS-Demo": [
       "*ibm.com", "john.doe@gmail.com", "all"
     ]
   },
-  "editors": {},
-  "copyright": {},
+  "previewers": { 
+    "contentstore": ["all"]
+  },
+  "copyright": {
+    "license": "MIT"
+  },
   "catalogInfo": {},
   "documentsInfo": {
     "meta-only": {
