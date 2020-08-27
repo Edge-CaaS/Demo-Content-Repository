@@ -24,8 +24,8 @@
       "background": "blue"
     }
   },
-  "searchInit": {
-    "search": [
+  "search": {
+    "fields": [
       "document.title",
       "document.description"
     ],
